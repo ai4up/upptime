@@ -7,6 +7,8 @@ sites:
     url: https://eubucco.com
   - name: Cities Explorer
     url: https://cities-explorer.eubucco.com
+  - name: Email Alert Test
+    url: https://example.invalid
 
 status-website:
   # Remove the `cname` line if you don't have a custom domain and use `baseUrl`
